@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: RangeScript
+## Author: Amateracu
+## Version: 1.0
+
+RangeScript.lua
